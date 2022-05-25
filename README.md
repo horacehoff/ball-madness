@@ -1,7 +1,7 @@
 # Ball Madness
 ### A retro platformer game I was working on some time ago that is now open-source.
 <br/><br/>
-![Ball Madness](https://github.com/just-a-mango/ball-madness/blob/main/Content/Splash/EdSplash.png?raw=true)\
+![Ball Madness](https://github.com/just-a-mango/ball-madness/blob/main/Content/Splash/EdSplash.png?raw=true)
 
 
 # Missing files
