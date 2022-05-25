@@ -15,3 +15,4 @@ https://drive.google.com/uc?export=download&id=10Yj7_ESOVQFVvvVFY0zTeI1Qph9FfApl
   - /Content/Music/Fourth.uasset
   - /Content/Music/Fifth.uasset
 - /Content/StarterContent/ -- can be downloaded in the project using the Unreal editor
+- /Content/UI/ -- can be download [here](https://drive.google.com/uc?export=download&id=1UdJy_iXvuwFb-pXJJ-vuZ6y5hmewWzDJ)
